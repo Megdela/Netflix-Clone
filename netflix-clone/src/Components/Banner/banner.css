@@ -1,14 +1,16 @@
 .banner{
-    margin-top:0vh;
-    height: 80vh;
-    margin-bottom: -80px;
+    margin-top:10vh;
+    height: 100vh;
+    margin-bottom: 10vh;
     color: white;
     object-fit: content;
+    
+
 }
 .banner__contents{
     margin-left: 30px;
     padding-top: 150px;
-   
+ 
 }
 .banner__title{
    font-size: 3rem;
@@ -50,7 +52,7 @@ transition: all 0.2s;
 
 .banner__fadeBottom {
     position: absolute;
-    bottom: 0;
+    bottom: 1;
     left: 0;
     right: 0;
     height: 40vh;
